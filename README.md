@@ -90,4 +90,4 @@ Configure Azure publish profiles and secrets (`AZURE_API_PUBLISH_PROFILE`, `AZUR
 
 ## License
 
-his project is licensed under the MIT License.
+his project is licensed under the [MIT License](https://github.com/malicious-virtue/my-dotnet-portfolio/blob/main/LICENSE).
